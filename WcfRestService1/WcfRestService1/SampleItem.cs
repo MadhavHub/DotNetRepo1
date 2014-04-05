@@ -6,7 +6,6 @@ using System.Text;
 
 namespace WcfRestService1
 {
-    // TODO: Edit the SampleItem class
     public class SampleItem
     {
         public int Id { get; set; }
